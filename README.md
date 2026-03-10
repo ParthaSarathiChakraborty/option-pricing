@@ -240,18 +240,5 @@ option-pro/
   •	Model validation against market data
 
 ⸻
-
-I designed and implemented a full multi-model derivatives pricing system and benchmarked it against real SPY option prices to analyze model accuracy and volatility structure.
-
 ⸻
 
-🔗 Connect
-	•	GitHub: your link
-	•	LinkedIn: your link
-	•	Email: your email
-
-⸻
-
-⭐ If you found this useful
-
-Feel free to ⭐ the repository or reach out for discussion.
